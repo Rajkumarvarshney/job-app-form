@@ -1,0 +1,17 @@
+
+.form{
+    display: flex;
+    flex-direction:column;
+    background-color: aliceblue;
+    margin:auto;
+    width:300px;
+    padding: 10px;
+}
+p{
+    gap: 10px;
+}
+input{
+    border:none;
+    outline: none;
+}
+/* Your CSS Code here. */
